@@ -1,0 +1,30 @@
+#!/bin/bash
+#SBATCH --job-name="frcs"
+#SBATCH --output="frocs_chunk_test.%j.out"
+#SBATCH --partition=gpu
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=10
+#SBATCH --mem=96Gb 
+#SBATCH --account=was138
+#SBATCH --export=ALL
+#SBATCH --gpus=4
+#SBATCH -t 12:00:00
+
+#  Environment
+module purge
+module load slurm
+module load cpu/0.15.4 gcc/10.2.0
+module load anaconda3/2020.11
+echo "Checking conda location..."
+which conda
+
+. $ANACONDA3HOME/etc/profile.d/conda.sh
+conda deactivate
+conda activate /home/millers7/.conda/envs/RNN
+export OE_LICENSE=/home/tjagraham/software/openeye_lic/oe_license.txt
+
+CUDA_VISIBLE_DEVICES=0 bash fastROCS_screen_chunk_1 & 
+CUDA_VISIBLE_DEVICES=1 bash fastROCS_screen_chunk_2 &
+CUDA_VISIBLE_DEVICES=2 bash fastROCS_screen_chunk_3 &
+CUDA_VISIBLE_DEVICES=3 bash fastROCS_screen_chunk_4 &
+wait
