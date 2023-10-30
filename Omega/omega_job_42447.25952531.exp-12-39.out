@@ -1,0 +1,252 @@
+Checking conda location...
+/cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/bin/conda
+----------------------------------
+hostname=  exp-12-39
+date=  Sun Oct 29 04:26:43 PDT 2023
+whoami=  millers7
+pwd=  /home/millers7/scratch/omega_job_printer/round_3_local_write_prefix
+Checking OE_License location...
+/home/millers7/oe_license.txt
+Checking python interpreter...
+/home/millers7/.conda/envs/RNN/bin/python
+Getting python enviroment details...
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
+ps: /cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/anaconda3-2020.11-weucuj4yrdybcuqro5v3mvuq3po7rhjt/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+
+          :jGf:             .d8888b. 88d8b.d8b. .d8888b. .d8888b. .d8888b.
+        :jGDDDDf:           88'  `88 88'`88'`88 88ooood8 88'  `88 88'  `88
+      ,fDDDGjLDDDf,         88.  .88 88  88  88 88.  ... 88.  .88 88.  .88
+    ,fDDLt:   :iLDDL;       `88888P' dP  dP  dP `88888P' `8888P88 `88888P8
+  ;fDLt:         :tfDG;                                       .88
+,jft:   ,ijfffji,   :iff                                  d8888P
+     .jGDDDDDDDDDGt.      
+    ;GDDGt:''':tDDDG,          Copyright (C) 2004-2023
+   .DDDG:       :GDDG.         Cadence Design Systems, Inc. (Cadence)
+   ;DDDj         tDDDi    
+   ,DDDf         fDDD,         Version: 4.2.2.0
+    LDDDt.     .fDDDj          Built:   20230424
+    .tDDDDfjtjfDDDGt           OEChem version: 3.4.0.0
+      :ifGDDDDDGfi.            Platform: redhat-RHEL8-g++8.5-x64
+          .:::.                
+  ......................       
+  DDDDDDDDDDDDDDDDDDDDDD       
+  DDDDDDDDDDDDDDDDDDDDDD       
+
+Supported run modes:
+  Single processor
+  MPI Multiprocessor
+
+  Licensed for the exclusive use of Lab of John Karanikolas.
+  Licensed for use only in Fox Chase Cancer Center.
+  License expires on July 1, 2024.
+
+
+To cite OMEGA please use the following:
+  OMEGA 4.2.2.0: OpenEye, Cadence Molecular Sciences, Santa Fe, NM. http://www.eyesopen.com.
+
+  Hawkins, P.C.D.; Skillman, A.G.; Warren, G.L.; Ellingson, B.A.; Stahl, M.T.
+  Conformer Generation with OMEGA: Algorithm and Validation Using High
+  Quality Structures from the Protein Databank and the Cambridge 
+  Structural Database. J. Chem. Inf. Model. 2010, 50, 572-584.
+
+Running in single processor mode
+Finished
